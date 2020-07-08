@@ -15,7 +15,7 @@
     "node": ">=0.10.40"
   },
   "dependencies": {
-    "hoek": "2.x.x",
+    "hoek": "6.x.x",
     "vise": "1.x.x"
   },
   "devDependencies": {
